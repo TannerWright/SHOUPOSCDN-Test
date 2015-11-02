@@ -1,0 +1,36 @@
+Version 0.6.0.156
+
+Major Revisions:
+    -Shell re-writing
+
+    RFSPA:
+	-Changed resoultion to 1024x768
+	-Changed background color to match RF
+	-Removed sounds (replaced by system sounds)
+
+	Login Page
+	    -Changed layout
+	
+	Home Page
+            -Added check ticket page
+	    -Added admin page
+
+	New Ticket Page
+	    -Changed layout
+	    -Added scan options
+	    -Added voidable
+	    -Removed back instance
+	    -Tickets now print
+
+    Launcher:
+	-Deleted, now shipped separately
+
+    Prelauncher
+	-Added
+
+Minor Revisions:
+    -Updated CDN format
+
+    RFSPA:
+	-Uses build-in event handling
+

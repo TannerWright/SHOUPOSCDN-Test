@@ -1,0 +1,27 @@
+RFSPA Version 0.3.0.433
+
+Major Revisions:
+
+  rsfpa.exe
+    -Added Login Screen
+    -Integraded Login API, Login Service
+ 
+  dtsvc.dll
+    -Login API Services
+    -Wait State Notifier
+  
+Minor Revisions:
+
+  Launcher.exe (DEV-SHOUPOS.exe)
+    -Updated Dependancies
+
+--------
+
+Patch 1 (10/1/2015 at 5:30PM)
+
+Bugfixes:
+
+  Launcher.exe (DEV-SHOUPOS.exe)
+    -Fixed bug causing launcher to crash
+
+ 
